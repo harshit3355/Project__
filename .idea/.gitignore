@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+vagrant/Manual_provisioning/.vagrant
+vagrant/Manual_provisioning/ubuntu-bionic-18.04-cloudimg-console.log
